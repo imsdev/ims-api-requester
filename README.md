@@ -1,3 +1,3 @@
 # ims-zcee-api-requester
 
-Create an IMS application that calls out to a REST API  (Coming soon)
+A tutorial on enabling an IMS application to call out to a REST API (Coming soon)
